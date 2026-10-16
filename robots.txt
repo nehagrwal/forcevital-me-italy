@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/forcevital-me-italy/sitemap.xml
+Sitemap: https://forcevital-me-italy.vercel.app/sitemap-vercel.xml
+Sitemap: https://forcevital-me-italy.pages.dev/sitemap-cloudflare.xml
